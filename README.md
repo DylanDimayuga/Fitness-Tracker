@@ -12,6 +12,8 @@
   
   ## Installation
   To use this app, follow the link below to the deployed application using Heroku.
+
+  https://still-peak-02112.herokuapp.com/
   
   ## Usage
   To start using this app, click on the new workout button. From here, start at the first input and complete all the fields describing your workout. IF you only had one workout, click complete workout, if you have more click the add exercise. Once you have completed your workout, it will bring you to a page displaying your total workout as well as having a button that allows you to add more exercises to this workout. If you would like to see the graphs, click on Dashboard. From dashboard, just click Fitness Tracker to route to the home page.
