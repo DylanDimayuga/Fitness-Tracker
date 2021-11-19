@@ -33,7 +33,7 @@ router.put("/api/workouts/:id", (req, res) => {
 });
 
 router.post("/api/workouts", ({ body }, res) => {
-  dbWorkout.create(body)
+  db.Workout.create(body)
   .then(dbWorkout => {
     res.status(200).json(dbWorkout);
   }).catch(err => {
