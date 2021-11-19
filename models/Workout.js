@@ -27,15 +27,15 @@ const WorkoutSchema = new Schema({
       reps: {
         type: Number,
         default: 0
-      }
+      },
       sets: {
         type: Number,
         default: 0
-      }
+      },
       distance: {
         type: Number,
         default: 0
-      }
+      },
     }
   ],
   totalDuration: {
